@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Microsoft SQL Server (JetBrains)" uuid="f3aa0692-c174-4f34-ad06-619f9256305a">
+      <driver-ref>sqlserver.jb</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>com.jetbrains.jdbc.sqlserver.SqlServerDriver</jdbc-driver>
+      <jdbc-url>Data Source=localhost; Initial Catalog=Academy1; Integrated Security=true; Trust Server Certificate=true</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
